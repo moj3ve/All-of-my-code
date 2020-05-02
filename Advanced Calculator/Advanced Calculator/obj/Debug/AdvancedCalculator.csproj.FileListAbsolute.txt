@@ -1,0 +1,6 @@
+C:\Users\ahoyn\source\repos\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe.config
+C:\Users\ahoyn\source\repos\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe
+C:\Users\ahoyn\source\repos\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.pdb
+C:\Users\ahoyn\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\AdvancedCalculator.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.exe
+C:\Users\ahoyn\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.pdb

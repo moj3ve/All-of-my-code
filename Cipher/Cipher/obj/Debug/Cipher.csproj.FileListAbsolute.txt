@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\Cipher\Cipher\bin\Debug\Cipher.exe.config
+C:\Users\ahoyn\source\repos\Cipher\Cipher\bin\Debug\Cipher.exe
+C:\Users\ahoyn\source\repos\Cipher\Cipher\bin\Debug\Cipher.pdb
+C:\Users\ahoyn\source\repos\Cipher\Cipher\obj\Debug\Cipher.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\Cipher\Cipher\obj\Debug\Cipher.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\Cipher\Cipher\obj\Debug\Cipher.exe
+C:\Users\ahoyn\source\repos\Cipher\Cipher\obj\Debug\Cipher.pdb
