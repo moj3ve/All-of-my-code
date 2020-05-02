@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\ReplaceWithPeePee\ReplaceWithPeePee\bin\Debug\ReplaceWithPeePee.exe.config
+C:\Users\ahoyn\source\repos\ReplaceWithPeePee\ReplaceWithPeePee\bin\Debug\ReplaceWithPeePee.exe
+C:\Users\ahoyn\source\repos\ReplaceWithPeePee\ReplaceWithPeePee\bin\Debug\ReplaceWithPeePee.pdb
+C:\Users\ahoyn\source\repos\ReplaceWithPeePee\ReplaceWithPeePee\obj\Debug\ReplaceWithPeePee.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\ReplaceWithPeePee\ReplaceWithPeePee\obj\Debug\ReplaceWithPeePee.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\ReplaceWithPeePee\ReplaceWithPeePee\obj\Debug\ReplaceWithPeePee.exe
+C:\Users\ahoyn\source\repos\ReplaceWithPeePee\ReplaceWithPeePee\obj\Debug\ReplaceWithPeePee.pdb

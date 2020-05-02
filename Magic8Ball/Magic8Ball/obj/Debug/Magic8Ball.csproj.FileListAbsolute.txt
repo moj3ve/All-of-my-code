@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+C:\Users\ahoyn\source\repos\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe
+C:\Users\ahoyn\source\repos\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.pdb
+C:\Users\ahoyn\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.exe
+C:\Users\ahoyn\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.pdb

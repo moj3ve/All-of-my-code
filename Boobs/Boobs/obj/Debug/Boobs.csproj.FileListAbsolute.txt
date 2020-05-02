@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\Boobs\Boobs\bin\Debug\Boobs.exe.config
+C:\Users\ahoyn\source\repos\Boobs\Boobs\bin\Debug\Boobs.exe
+C:\Users\ahoyn\source\repos\Boobs\Boobs\bin\Debug\Boobs.pdb
+C:\Users\ahoyn\source\repos\Boobs\Boobs\obj\Debug\Boobs.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\Boobs\Boobs\obj\Debug\Boobs.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\Boobs\Boobs\obj\Debug\Boobs.exe
+C:\Users\ahoyn\source\repos\Boobs\Boobs\obj\Debug\Boobs.pdb

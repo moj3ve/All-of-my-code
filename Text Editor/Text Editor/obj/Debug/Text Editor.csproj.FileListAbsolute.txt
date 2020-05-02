@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\Text Editor\Text Editor\bin\Debug\Calculator1.exe.config
+C:\Users\ahoyn\source\repos\Text Editor\Text Editor\bin\Debug\Calculator1.exe
+C:\Users\ahoyn\source\repos\Text Editor\Text Editor\bin\Debug\Calculator1.pdb
+C:\Users\ahoyn\source\repos\Text Editor\Text Editor\obj\Debug\Text Editor.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\Text Editor\Text Editor\obj\Debug\Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\Text Editor\Text Editor\obj\Debug\Calculator1.exe
+C:\Users\ahoyn\source\repos\Text Editor\Text Editor\obj\Debug\Calculator1.pdb

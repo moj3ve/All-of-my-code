@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\PenisEnlargementPills\PenisEnlargementPills\bin\Debug\PenisEnlargementPills.exe.config
+C:\Users\ahoyn\source\repos\PenisEnlargementPills\PenisEnlargementPills\bin\Debug\PenisEnlargementPills.exe
+C:\Users\ahoyn\source\repos\PenisEnlargementPills\PenisEnlargementPills\bin\Debug\PenisEnlargementPills.pdb
+C:\Users\ahoyn\source\repos\PenisEnlargementPills\PenisEnlargementPills\obj\Debug\PenisEnlargementPills.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\PenisEnlargementPills\PenisEnlargementPills\obj\Debug\PenisEnlargementPills.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\PenisEnlargementPills\PenisEnlargementPills\obj\Debug\PenisEnlargementPills.exe
+C:\Users\ahoyn\source\repos\PenisEnlargementPills\PenisEnlargementPills\obj\Debug\PenisEnlargementPills.pdb

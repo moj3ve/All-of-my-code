@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\PieceOfCandy\PieceOfCandy\bin\Debug\PieceOfCandy.exe.config
+C:\Users\ahoyn\source\repos\PieceOfCandy\PieceOfCandy\bin\Debug\PieceOfCandy.exe
+C:\Users\ahoyn\source\repos\PieceOfCandy\PieceOfCandy\bin\Debug\PieceOfCandy.pdb
+C:\Users\ahoyn\source\repos\PieceOfCandy\PieceOfCandy\obj\Debug\PieceOfCandy.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\PieceOfCandy\PieceOfCandy\obj\Debug\PieceOfCandy.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\PieceOfCandy\PieceOfCandy\obj\Debug\PieceOfCandy.exe
+C:\Users\ahoyn\source\repos\PieceOfCandy\PieceOfCandy\obj\Debug\PieceOfCandy.pdb
