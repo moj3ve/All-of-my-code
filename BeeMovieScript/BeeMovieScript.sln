@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeMovieScript", "BeeMovieScript\BeeMovieScript.csproj", "{E8629E42-58EC-412A-A2D3-A031026FF692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8629E42-58EC-412A-A2D3-A031026FF692}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E8629E42-58EC-412A-A2D3-A031026FF692}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E8629E42-58EC-412A-A2D3-A031026FF692}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E8629E42-58EC-412A-A2D3-A031026FF692}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

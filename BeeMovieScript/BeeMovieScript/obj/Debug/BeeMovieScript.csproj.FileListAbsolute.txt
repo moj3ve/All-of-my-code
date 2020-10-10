@@ -1,0 +1,6 @@
+/Users/brandonsmacbookpro/Projects/BeeMovieScript/BeeMovieScript/bin/Debug/BeeMovieScript.exe
+/Users/brandonsmacbookpro/Projects/BeeMovieScript/BeeMovieScript/bin/Debug/BeeMovieScript.pdb
+/Users/brandonsmacbookpro/Projects/BeeMovieScript/BeeMovieScript/obj/Debug/BeeMovieScript.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/BeeMovieScript/BeeMovieScript/obj/Debug/BeeMovieScript.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/BeeMovieScript/BeeMovieScript/obj/Debug/BeeMovieScript.exe
+/Users/brandonsmacbookpro/Projects/BeeMovieScript/BeeMovieScript/obj/Debug/BeeMovieScript.pdb

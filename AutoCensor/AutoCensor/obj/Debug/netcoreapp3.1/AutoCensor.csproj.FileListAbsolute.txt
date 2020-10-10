@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/bin/Debug/netcoreapp3.1/AutoCensor.deps.json
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/bin/Debug/netcoreapp3.1/AutoCensor.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/bin/Debug/netcoreapp3.1/AutoCensor.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/bin/Debug/netcoreapp3.1/AutoCensor.dll
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/bin/Debug/netcoreapp3.1/AutoCensor.pdb
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/obj/Debug/netcoreapp3.1/AutoCensor.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/obj/Debug/netcoreapp3.1/AutoCensor.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/obj/Debug/netcoreapp3.1/AutoCensor.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/obj/Debug/netcoreapp3.1/AutoCensor.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/obj/Debug/netcoreapp3.1/AutoCensor.dll
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/obj/Debug/netcoreapp3.1/AutoCensor.pdb
+/Users/brandonsmacbookpro/Projects/AutoCensor/AutoCensor/obj/Debug/netcoreapp3.1/AutoCensor.genruntimeconfig.cache
