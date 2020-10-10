@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.deps.json
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.genruntimeconfig.cache

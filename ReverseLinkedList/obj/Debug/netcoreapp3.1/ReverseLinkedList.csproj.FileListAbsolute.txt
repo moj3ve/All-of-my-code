@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.deps.json
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.genruntimeconfig.cache

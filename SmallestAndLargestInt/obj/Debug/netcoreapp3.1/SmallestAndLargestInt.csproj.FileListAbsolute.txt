@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/bin/Debug/netcoreapp3.1/SmallestAndLargestInt.deps.json
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/bin/Debug/netcoreapp3.1/SmallestAndLargestInt.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/bin/Debug/netcoreapp3.1/SmallestAndLargestInt.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/bin/Debug/netcoreapp3.1/SmallestAndLargestInt.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/bin/Debug/netcoreapp3.1/SmallestAndLargestInt.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/obj/Debug/netcoreapp3.1/SmallestAndLargestInt.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/obj/Debug/netcoreapp3.1/SmallestAndLargestInt.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/obj/Debug/netcoreapp3.1/SmallestAndLargestInt.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/obj/Debug/netcoreapp3.1/SmallestAndLargestInt.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/obj/Debug/netcoreapp3.1/SmallestAndLargestInt.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/obj/Debug/netcoreapp3.1/SmallestAndLargestInt.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/SmallestAndLargestInt/obj/Debug/netcoreapp3.1/SmallestAndLargestInt.genruntimeconfig.cache

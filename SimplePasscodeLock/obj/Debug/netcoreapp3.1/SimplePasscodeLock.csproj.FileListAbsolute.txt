@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/bin/Debug/netcoreapp3.1/SimplePasscodeLock.deps.json
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/bin/Debug/netcoreapp3.1/SimplePasscodeLock.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/bin/Debug/netcoreapp3.1/SimplePasscodeLock.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/bin/Debug/netcoreapp3.1/SimplePasscodeLock.dll
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/bin/Debug/netcoreapp3.1/SimplePasscodeLock.pdb
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/obj/Debug/netcoreapp3.1/SimplePasscodeLock.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/obj/Debug/netcoreapp3.1/SimplePasscodeLock.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/obj/Debug/netcoreapp3.1/SimplePasscodeLock.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/obj/Debug/netcoreapp3.1/SimplePasscodeLock.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/obj/Debug/netcoreapp3.1/SimplePasscodeLock.dll
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/obj/Debug/netcoreapp3.1/SimplePasscodeLock.pdb
+/Users/brandonsmacbookpro/Projects/SimplePasscodeLock/obj/Debug/netcoreapp3.1/SimplePasscodeLock.genruntimeconfig.cache
