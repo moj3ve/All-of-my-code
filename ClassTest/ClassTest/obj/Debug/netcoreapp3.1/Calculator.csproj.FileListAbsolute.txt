@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/bin/Debug/netcoreapp3.1/TextEditorComplete.deps.json
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/bin/Debug/netcoreapp3.1/TextEditorComplete.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/bin/Debug/netcoreapp3.1/TextEditorComplete.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/bin/Debug/netcoreapp3.1/TextEditorComplete.dll
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/bin/Debug/netcoreapp3.1/TextEditorComplete.pdb
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/obj/Debug/netcoreapp3.1/TextEditorComplete.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/obj/Debug/netcoreapp3.1/TextEditorComplete.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/obj/Debug/netcoreapp3.1/TextEditorComplete.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/obj/Debug/netcoreapp3.1/TextEditorComplete.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/obj/Debug/netcoreapp3.1/TextEditorComplete.dll
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/obj/Debug/netcoreapp3.1/TextEditorComplete.pdb
+/Users/brandonsmacbookpro/Projects/TextEditorComplete/TextEditorComplete/obj/Debug/netcoreapp3.1/TextEditorComplete.genruntimeconfig.cache

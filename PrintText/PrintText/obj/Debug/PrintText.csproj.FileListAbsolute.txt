@@ -1,0 +1,6 @@
+/Users/brandonsmacbookpro/Projects/PrintText/PrintText/bin/Debug/PrintText.exe
+/Users/brandonsmacbookpro/Projects/PrintText/PrintText/bin/Debug/PrintText.pdb
+/Users/brandonsmacbookpro/Projects/PrintText/PrintText/obj/Debug/PrintText.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/PrintText/PrintText/obj/Debug/PrintText.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/PrintText/PrintText/obj/Debug/PrintText.exe
+/Users/brandonsmacbookpro/Projects/PrintText/PrintText/obj/Debug/PrintText.pdb

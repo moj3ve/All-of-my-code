@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/ClassTest.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/ClassTest.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/ClassTest.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/ClassTest.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/ClassTest.deps.json
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/ClassTest.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/ClassTest.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/ClassTest.dll
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/bin/Debug/netcoreapp3.1/ClassTest.pdb
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/ClassTest.dll
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/ClassTest.pdb
+/Users/brandonsmacbookpro/Projects/ClassTest/ClassTest/obj/Debug/netcoreapp3.1/ClassTest.genruntimeconfig.cache
