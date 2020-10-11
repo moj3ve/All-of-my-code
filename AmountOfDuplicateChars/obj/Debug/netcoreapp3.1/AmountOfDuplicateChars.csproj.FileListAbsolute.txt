@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/bin/Debug/netcoreapp3.1/AmountOfDuplicateChars.deps.json
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/bin/Debug/netcoreapp3.1/AmountOfDuplicateChars.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/bin/Debug/netcoreapp3.1/AmountOfDuplicateChars.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/bin/Debug/netcoreapp3.1/AmountOfDuplicateChars.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/bin/Debug/netcoreapp3.1/AmountOfDuplicateChars.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/obj/Debug/netcoreapp3.1/AmountOfDuplicateChars.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/obj/Debug/netcoreapp3.1/AmountOfDuplicateChars.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/obj/Debug/netcoreapp3.1/AmountOfDuplicateChars.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/obj/Debug/netcoreapp3.1/AmountOfDuplicateChars.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/obj/Debug/netcoreapp3.1/AmountOfDuplicateChars.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/obj/Debug/netcoreapp3.1/AmountOfDuplicateChars.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/AmountOfDuplicateChars/obj/Debug/netcoreapp3.1/AmountOfDuplicateChars.genruntimeconfig.cache
