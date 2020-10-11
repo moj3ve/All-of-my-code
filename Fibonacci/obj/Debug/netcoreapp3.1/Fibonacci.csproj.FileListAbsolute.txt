@@ -1,0 +1,13 @@
+C:\Users\ahoyn\source\repos\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\ahoyn\source\repos\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\ahoyn\source\repos\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\ahoyn\source\repos\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\ahoyn\source\repos\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\ahoyn\source\repos\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\ahoyn\source\repos\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\ahoyn\source\repos\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\ahoyn\source\repos\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\ahoyn\source\repos\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\ahoyn\source\repos\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache

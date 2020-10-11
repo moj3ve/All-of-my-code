@@ -1,0 +1,13 @@
+C:\Users\ahoyn\source\repos\DuplicateCharacters\bin\Debug\netcoreapp3.1\DuplicateCharacters.exe
+C:\Users\ahoyn\source\repos\DuplicateCharacters\bin\Debug\netcoreapp3.1\DuplicateCharacters.deps.json
+C:\Users\ahoyn\source\repos\DuplicateCharacters\bin\Debug\netcoreapp3.1\DuplicateCharacters.runtimeconfig.json
+C:\Users\ahoyn\source\repos\DuplicateCharacters\bin\Debug\netcoreapp3.1\DuplicateCharacters.runtimeconfig.dev.json
+C:\Users\ahoyn\source\repos\DuplicateCharacters\bin\Debug\netcoreapp3.1\DuplicateCharacters.dll
+C:\Users\ahoyn\source\repos\DuplicateCharacters\bin\Debug\netcoreapp3.1\DuplicateCharacters.pdb
+C:\Users\ahoyn\source\repos\DuplicateCharacters\obj\Debug\netcoreapp3.1\DuplicateCharacters.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\DuplicateCharacters\obj\Debug\netcoreapp3.1\DuplicateCharacters.AssemblyInfoInputs.cache
+C:\Users\ahoyn\source\repos\DuplicateCharacters\obj\Debug\netcoreapp3.1\DuplicateCharacters.AssemblyInfo.cs
+C:\Users\ahoyn\source\repos\DuplicateCharacters\obj\Debug\netcoreapp3.1\DuplicateCharacters.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\DuplicateCharacters\obj\Debug\netcoreapp3.1\DuplicateCharacters.dll
+C:\Users\ahoyn\source\repos\DuplicateCharacters\obj\Debug\netcoreapp3.1\DuplicateCharacters.pdb
+C:\Users\ahoyn\source\repos\DuplicateCharacters\obj\Debug\netcoreapp3.1\DuplicateCharacters.genruntimeconfig.cache
