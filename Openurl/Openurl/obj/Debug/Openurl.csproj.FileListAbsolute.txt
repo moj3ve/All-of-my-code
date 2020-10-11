@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\Openurl\Openurl\bin\Debug\Openurl.exe.config
+C:\Users\ahoyn\source\repos\Openurl\Openurl\bin\Debug\Openurl.exe
+C:\Users\ahoyn\source\repos\Openurl\Openurl\bin\Debug\Openurl.pdb
+C:\Users\ahoyn\source\repos\Openurl\Openurl\obj\Debug\Openurl.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\Openurl\Openurl\obj\Debug\Openurl.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\Openurl\Openurl\obj\Debug\Openurl.exe
+C:\Users\ahoyn\source\repos\Openurl\Openurl\obj\Debug\Openurl.pdb

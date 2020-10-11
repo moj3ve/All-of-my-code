@@ -1,0 +1,13 @@
+C:\Users\ahoyn\source\repos\missinginteger\bin\Debug\netcoreapp3.1\MissingInteger.exe
+C:\Users\ahoyn\source\repos\missinginteger\bin\Debug\netcoreapp3.1\MissingInteger.deps.json
+C:\Users\ahoyn\source\repos\missinginteger\bin\Debug\netcoreapp3.1\MissingInteger.runtimeconfig.json
+C:\Users\ahoyn\source\repos\missinginteger\bin\Debug\netcoreapp3.1\MissingInteger.runtimeconfig.dev.json
+C:\Users\ahoyn\source\repos\missinginteger\bin\Debug\netcoreapp3.1\MissingInteger.dll
+C:\Users\ahoyn\source\repos\missinginteger\bin\Debug\netcoreapp3.1\MissingInteger.pdb
+C:\Users\ahoyn\source\repos\missinginteger\obj\Debug\netcoreapp3.1\MissingInteger.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\missinginteger\obj\Debug\netcoreapp3.1\MissingInteger.AssemblyInfoInputs.cache
+C:\Users\ahoyn\source\repos\missinginteger\obj\Debug\netcoreapp3.1\MissingInteger.AssemblyInfo.cs
+C:\Users\ahoyn\source\repos\missinginteger\obj\Debug\netcoreapp3.1\MissingInteger.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\missinginteger\obj\Debug\netcoreapp3.1\MissingInteger.dll
+C:\Users\ahoyn\source\repos\missinginteger\obj\Debug\netcoreapp3.1\MissingInteger.pdb
+C:\Users\ahoyn\source\repos\missinginteger\obj\Debug\netcoreapp3.1\MissingInteger.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\ahoyn\source\repos\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\ahoyn\source\repos\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\ahoyn\source\repos\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\ahoyn\source\repos\Triangle\Triangle\obj\Debug\Triangle.pdb

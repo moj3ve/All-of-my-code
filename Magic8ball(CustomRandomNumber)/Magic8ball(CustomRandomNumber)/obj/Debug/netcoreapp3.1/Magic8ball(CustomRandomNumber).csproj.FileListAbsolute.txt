@@ -1,0 +1,13 @@
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\obj\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\obj\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).AssemblyInfoInputs.cache
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\obj\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).AssemblyInfo.cs
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\obj\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\bin\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).exe
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\bin\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).deps.json
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\bin\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).runtimeconfig.json
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\bin\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).runtimeconfig.dev.json
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\bin\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).dll
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\bin\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).pdb
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\obj\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).dll
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\obj\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).pdb
+C:\Users\ahoyn\source\repos\Magic8ball(CustomRandomNumber)\Magic8ball(CustomRandomNumber)\obj\Debug\netcoreapp3.1\Magic8ball(CustomRandomNumber).genruntimeconfig.cache

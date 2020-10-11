@@ -1,0 +1,13 @@
+C:\Users\ahoyn\source\repos\FizzBuzz2\bin\Debug\netcoreapp3.1\FizzBuzz2.exe
+C:\Users\ahoyn\source\repos\FizzBuzz2\bin\Debug\netcoreapp3.1\FizzBuzz2.deps.json
+C:\Users\ahoyn\source\repos\FizzBuzz2\bin\Debug\netcoreapp3.1\FizzBuzz2.runtimeconfig.json
+C:\Users\ahoyn\source\repos\FizzBuzz2\bin\Debug\netcoreapp3.1\FizzBuzz2.runtimeconfig.dev.json
+C:\Users\ahoyn\source\repos\FizzBuzz2\bin\Debug\netcoreapp3.1\FizzBuzz2.dll
+C:\Users\ahoyn\source\repos\FizzBuzz2\bin\Debug\netcoreapp3.1\FizzBuzz2.pdb
+C:\Users\ahoyn\source\repos\FizzBuzz2\obj\Debug\netcoreapp3.1\FizzBuzz2.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\FizzBuzz2\obj\Debug\netcoreapp3.1\FizzBuzz2.AssemblyInfoInputs.cache
+C:\Users\ahoyn\source\repos\FizzBuzz2\obj\Debug\netcoreapp3.1\FizzBuzz2.AssemblyInfo.cs
+C:\Users\ahoyn\source\repos\FizzBuzz2\obj\Debug\netcoreapp3.1\FizzBuzz2.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\FizzBuzz2\obj\Debug\netcoreapp3.1\FizzBuzz2.dll
+C:\Users\ahoyn\source\repos\FizzBuzz2\obj\Debug\netcoreapp3.1\FizzBuzz2.pdb
+C:\Users\ahoyn\source\repos\FizzBuzz2\obj\Debug\netcoreapp3.1\FizzBuzz2.genruntimeconfig.cache

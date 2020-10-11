@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\PalindromCalculator\PalindromCalculator\obj\Debug\PalindromCalculator.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\PalindromCalculator\PalindromCalculator\obj\Debug\PalindromCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\PalindromCalculator\PalindromCalculator\bin\Debug\PalindromeCalculator.exe.config
+C:\Users\ahoyn\source\repos\PalindromCalculator\PalindromCalculator\bin\Debug\PalindromeCalculator.exe
+C:\Users\ahoyn\source\repos\PalindromCalculator\PalindromCalculator\bin\Debug\PalindromeCalculator.pdb
+C:\Users\ahoyn\source\repos\PalindromCalculator\PalindromCalculator\obj\Debug\PalindromeCalculator.exe
+C:\Users\ahoyn\source\repos\PalindromCalculator\PalindromCalculator\obj\Debug\PalindromeCalculator.pdb

@@ -1,0 +1,7 @@
+C:\Users\ahoyn\source\repos\RecordKeyboardInputs\RecordKeyboardInputs\bin\Debug\RecordKeyboardInputs.exe.config
+C:\Users\ahoyn\source\repos\RecordKeyboardInputs\RecordKeyboardInputs\bin\Debug\RecordKeyboardInputs.exe
+C:\Users\ahoyn\source\repos\RecordKeyboardInputs\RecordKeyboardInputs\bin\Debug\RecordKeyboardInputs.pdb
+C:\Users\ahoyn\source\repos\RecordKeyboardInputs\RecordKeyboardInputs\obj\Debug\RecordKeyboardInputs.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\RecordKeyboardInputs\RecordKeyboardInputs\obj\Debug\RecordKeyboardInputs.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\RecordKeyboardInputs\RecordKeyboardInputs\obj\Debug\RecordKeyboardInputs.exe
+C:\Users\ahoyn\source\repos\RecordKeyboardInputs\RecordKeyboardInputs\obj\Debug\RecordKeyboardInputs.pdb

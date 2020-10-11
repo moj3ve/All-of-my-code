@@ -1,0 +1,13 @@
+C:\Users\ahoyn\source\repos\SwapVariables\obj\Debug\netcoreapp3.1\SwapVariables.csprojAssemblyReference.cache
+C:\Users\ahoyn\source\repos\SwapVariables\obj\Debug\netcoreapp3.1\SwapVariables.AssemblyInfoInputs.cache
+C:\Users\ahoyn\source\repos\SwapVariables\obj\Debug\netcoreapp3.1\SwapVariables.AssemblyInfo.cs
+C:\Users\ahoyn\source\repos\SwapVariables\obj\Debug\netcoreapp3.1\SwapVariables.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\source\repos\SwapVariables\bin\Debug\netcoreapp3.1\SwapVariables.exe
+C:\Users\ahoyn\source\repos\SwapVariables\bin\Debug\netcoreapp3.1\SwapVariables.deps.json
+C:\Users\ahoyn\source\repos\SwapVariables\bin\Debug\netcoreapp3.1\SwapVariables.runtimeconfig.json
+C:\Users\ahoyn\source\repos\SwapVariables\bin\Debug\netcoreapp3.1\SwapVariables.runtimeconfig.dev.json
+C:\Users\ahoyn\source\repos\SwapVariables\bin\Debug\netcoreapp3.1\SwapVariables.dll
+C:\Users\ahoyn\source\repos\SwapVariables\bin\Debug\netcoreapp3.1\SwapVariables.pdb
+C:\Users\ahoyn\source\repos\SwapVariables\obj\Debug\netcoreapp3.1\SwapVariables.dll
+C:\Users\ahoyn\source\repos\SwapVariables\obj\Debug\netcoreapp3.1\SwapVariables.pdb
+C:\Users\ahoyn\source\repos\SwapVariables\obj\Debug\netcoreapp3.1\SwapVariables.genruntimeconfig.cache
