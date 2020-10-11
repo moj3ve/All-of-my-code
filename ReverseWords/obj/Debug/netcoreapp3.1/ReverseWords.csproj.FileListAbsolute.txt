@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/bin/Debug/netcoreapp3.1/ReverseWords.deps.json
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/bin/Debug/netcoreapp3.1/ReverseWords.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/bin/Debug/netcoreapp3.1/ReverseWords.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/bin/Debug/netcoreapp3.1/ReverseWords.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/bin/Debug/netcoreapp3.1/ReverseWords.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/obj/Debug/netcoreapp3.1/ReverseWords.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/obj/Debug/netcoreapp3.1/ReverseWords.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/obj/Debug/netcoreapp3.1/ReverseWords.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/obj/Debug/netcoreapp3.1/ReverseWords.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/obj/Debug/netcoreapp3.1/ReverseWords.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/obj/Debug/netcoreapp3.1/ReverseWords.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/ReverseWords/obj/Debug/netcoreapp3.1/ReverseWords.genruntimeconfig.cache
