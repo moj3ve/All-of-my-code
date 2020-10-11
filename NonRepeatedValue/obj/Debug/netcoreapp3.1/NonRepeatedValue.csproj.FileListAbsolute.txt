@@ -1,0 +1,13 @@
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\bin\Debug\netcoreapp3.1\NonRepeatedValue.exe
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\bin\Debug\netcoreapp3.1\NonRepeatedValue.deps.json
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\bin\Debug\netcoreapp3.1\NonRepeatedValue.runtimeconfig.json
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\bin\Debug\netcoreapp3.1\NonRepeatedValue.runtimeconfig.dev.json
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\bin\Debug\netcoreapp3.1\NonRepeatedValue.dll
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\bin\Debug\netcoreapp3.1\NonRepeatedValue.pdb
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\obj\Debug\netcoreapp3.1\NonRepeatedValue.csprojAssemblyReference.cache
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\obj\Debug\netcoreapp3.1\NonRepeatedValue.AssemblyInfoInputs.cache
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\obj\Debug\netcoreapp3.1\NonRepeatedValue.AssemblyInfo.cs
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\obj\Debug\netcoreapp3.1\NonRepeatedValue.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\obj\Debug\netcoreapp3.1\NonRepeatedValue.dll
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\obj\Debug\netcoreapp3.1\NonRepeatedValue.pdb
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\NonRepeatedValue\obj\Debug\netcoreapp3.1\NonRepeatedValue.genruntimeconfig.cache
