@@ -24,7 +24,7 @@ namespace FizzBuzz
             for (int i = 1; i <= inputInt; i++)
             {
                 Console.WriteLine(FizzBuzz(i));
-            }
+            } 
         }
     }
 }

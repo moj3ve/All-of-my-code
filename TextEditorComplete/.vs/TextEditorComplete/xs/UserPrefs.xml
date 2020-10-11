@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{00E8643E-4124-4771-85F3-F9082694E483}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextEditorComplete/Program.cs">
+    <Files>
+      <File FileName="TextEditorComplete/Program.cs" Line="32" Column="83" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextEditorComplete" expanded="True">
+            <Node name="TextEditorComplete" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>directory</Value>
+          <Value>textFile</Value>
+          <Value>textFile</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TextEditorComplete PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

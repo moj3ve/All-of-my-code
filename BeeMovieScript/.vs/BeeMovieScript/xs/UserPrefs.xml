@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E8629E42-58EC-412A-A2D3-A031026FF692}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeeMovieScript/Program.cs">
+    <Files>
+      <File FileName="BeeMovieScript/Program.cs" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BeeMovieScript" expanded="True">
+            <Node name="BeeMovieScript" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BeeMovieScript PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

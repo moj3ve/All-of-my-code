@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{011B3650-0080-44A8-BCE6-9B76E524D0B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.AutoCensor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutoCensor/Program.cs">
+    <Files>
+      <File FileName="AutoCensor/Program.cs" Line="30" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutoCensor" expanded="True">
+            <Node name="AutoCensor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

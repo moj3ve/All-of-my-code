@@ -1,0 +1,12 @@
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/bin/Debug/netcoreapp3.1/GetListLength.deps.json
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/bin/Debug/netcoreapp3.1/GetListLength.runtimeconfig.json
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/bin/Debug/netcoreapp3.1/GetListLength.runtimeconfig.dev.json
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/bin/Debug/netcoreapp3.1/GetListLength.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/bin/Debug/netcoreapp3.1/GetListLength.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/obj/Debug/netcoreapp3.1/GetListLength.csprojAssemblyReference.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/obj/Debug/netcoreapp3.1/GetListLength.AssemblyInfoInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/obj/Debug/netcoreapp3.1/GetListLength.AssemblyInfo.cs
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/obj/Debug/netcoreapp3.1/GetListLength.csproj.CoreCompileInputs.cache
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/obj/Debug/netcoreapp3.1/GetListLength.dll
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/obj/Debug/netcoreapp3.1/GetListLength.pdb
+/Users/brandonsmacbookpro/Projects/C#Projects/GetListLength/obj/Debug/netcoreapp3.1/GetListLength.genruntimeconfig.cache
