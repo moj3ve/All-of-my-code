@@ -1,0 +1,13 @@
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\bin\Debug\netcoreapp3.1\OnlyDigitString.exe
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\bin\Debug\netcoreapp3.1\OnlyDigitString.deps.json
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\bin\Debug\netcoreapp3.1\OnlyDigitString.runtimeconfig.json
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\bin\Debug\netcoreapp3.1\OnlyDigitString.runtimeconfig.dev.json
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\bin\Debug\netcoreapp3.1\OnlyDigitString.dll
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\bin\Debug\netcoreapp3.1\OnlyDigitString.pdb
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\obj\Debug\netcoreapp3.1\OnlyDigitString.csprojAssemblyReference.cache
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\obj\Debug\netcoreapp3.1\OnlyDigitString.AssemblyInfoInputs.cache
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\obj\Debug\netcoreapp3.1\OnlyDigitString.AssemblyInfo.cs
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\obj\Debug\netcoreapp3.1\OnlyDigitString.csproj.CoreCompileInputs.cache
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\obj\Debug\netcoreapp3.1\OnlyDigitString.dll
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\obj\Debug\netcoreapp3.1\OnlyDigitString.pdb
+C:\Users\ahoyn\Documents\AllOfMyCode.git\All-of-my-code\OnlyDigitString\obj\Debug\netcoreapp3.1\OnlyDigitString.genruntimeconfig.cache
