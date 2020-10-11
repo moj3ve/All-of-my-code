@@ -5,6 +5,7 @@ namespace GetListLength
 {
     class Program
     {
+        //btw this is terrible implementation and it takes like 20 seconds to return
         static int Length(List<int> usedList)
         {
             int length = 0;
