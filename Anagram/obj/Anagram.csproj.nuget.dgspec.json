@@ -1,30 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahoyn\\source\\repos\\Anagram\\Anagram.csproj": {}
+    "/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/Anagram/Anagram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahoyn\\source\\repos\\Anagram\\Anagram.csproj": {
+    "/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/Anagram/Anagram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahoyn\\source\\repos\\Anagram\\Anagram.csproj",
+        "projectUniqueName": "/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/Anagram/Anagram.csproj",
         "projectName": "Anagram",
-        "projectPath": "C:\\Users\\ahoyn\\source\\repos\\Anagram\\Anagram.csproj",
-        "packagesPath": "C:\\Users\\ahoyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahoyn\\source\\repos\\Anagram\\obj\\",
+        "projectPath": "/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/Anagram/Anagram.csproj",
+        "packagesPath": "/Users/brandonsmacbookpro/.nuget/packages/",
+        "outputPath": "/Users/brandonsmacbookpro/Projects/C#Projects/All-of-my-code/Anagram/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ahoyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/brandonsmacbookpro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.emzi0767.com/api/v3/index.json": {},
-          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -54,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     }

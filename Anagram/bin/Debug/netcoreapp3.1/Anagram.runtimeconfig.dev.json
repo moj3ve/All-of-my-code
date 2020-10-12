@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\ahoyn\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ahoyn\\.nuget\\packages"
+      "/Users/brandonsmacbookpro/.dotnet/store/|arch|/|tfm|",
+      "/Users/brandonsmacbookpro/.nuget/packages"
     ]
   }
 }
